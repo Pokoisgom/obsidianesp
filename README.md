@@ -14,7 +14,8 @@ Si tienes alguna pregunta o inquietud, no dudes en ponerte en contacto. Estoy si
 
 Te recomiendo realizar una visita a youtube para familiarizarte con los plugins más utilizados.
 También te recomiendo visitar mi canal de instagram, donde subiré reels explicando como utilizar la herramienta para que puedas ajustarla a tus necesidades y obtengas tu 100%.
-[![Instagram logo]([https://image-url.com/logo.png](https://cdn.discordapp.com/attachments/944751991639392286/1071176702279045290/Instagram_Glyph_Gradient_copy.jpg))]([https://www.instagram.com/your-username](https://www.instagram.com/iampoco.md/))
+[![Perfil de Instagram](https://cdn.discordapp.com/attachments/944751991639392286/1071176702279045290/Instagram_Glyph_Gradient_copy.jpg)](https://www.instagram.com/iampoco.md/)
+
 
 ---
 

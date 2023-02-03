@@ -19,7 +19,7 @@ También te recomiendo visitar mi canal de instagram, donde subiré reels explic
 
 - [Instagram](https://www.instagram.com/iampoco.md)
 - [Twitter](https://twitter.com/iampoco_)
-- [PayPal] (https://paypal.me/iampoco?country.x=CL&locale.x=es_XC)
+- [PayPal](https://paypal.me/iampoco?country.x=CL&locale.x=es_XC)
 - Metamask Wallet: 0xb294F8d708748309300cdB7010eED25A22564eA2
 - Phantom Wallet: 9dWEk8NtjDzigA9Wnxs882RdSNMon4i2G6FtiJic9roU
 

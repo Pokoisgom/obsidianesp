@@ -18,8 +18,14 @@ También te recomiendo visitar mi canal de instagram, donde subiré reels explic
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
 
-<a href="https://twitter.com/iampoco_" target="_blank">
+<a href="https://twitter.com/your-username" target="_blank">
   <i class="fab fa-twitter fa-2x"></i>
+</a>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
+<a href="https://instagram.com/your-username" target="_blank">
+  <i class="fab fa-instagram fa-2x"></i>
 </a>
 
 ---

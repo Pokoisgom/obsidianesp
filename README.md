@@ -17,8 +17,8 @@ Te recomiendo realizar una visita a youtube para familiarizarte con los plugins 
 También te recomiendo visitar mi canal de instagram, donde subiré reels explicando como utilizar la herramienta para que puedas ajustarla a tus necesidades y obtengas tu 100%.
 
 
-- https://www.instagram.com/iampoco.md/
-- https://twitter.com/iampoco_
+- [Instagram](https://www.instagram.com/iampoco.md)
+- [Twitter](https://twitter.com/iampoco_)
 
 
 ---

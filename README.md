@@ -18,7 +18,7 @@ También te recomiendo visitar mi canal de instagram, donde subiré reels explic
 
 
 - https://www.instagram.com/iampoco.md/
-- https://twitter.com/iampoco55
+- https://twitter.com/iampoco_
 
 
 ---

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ObsidianVault
 
 ¡Felicidades por adquirir Obsidian.md Vault!
@@ -9,3 +10,7 @@ En primer lugar, te recomendamos revisar nuestra guía de inicio rápido para fa
 Si tienes alguna pregunta o inquietud, no dudes en ponerte en contacto con nuestro equipo de soporte. Estamos siempre disponibles para ayudarte.
 
 ¡Empecemos a trabajar juntos para alcanzar tus objetivos y mejorar tu productividad!
+=======
+# obsidianesp
+Bienvenido a obsidian md en español! :)
+>>>>>>> b0bdb98697ee0ffd00b27a3e4ef75bd494fc8515

@@ -16,15 +16,19 @@ Si tienes alguna pregunta o inquietud, no dudes en ponerte en contacto. Estoy si
 Te recomiendo realizar una visita a youtube para familiarizarte con los plugins más utilizados.
 También te recomiendo visitar mi canal de instagram, donde subiré reels explicando como utilizar la herramienta para que puedas ajustarla a tus necesidades y obtengas tu 100%.
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
 
-<a href="https://twitter.com/your-username" target="_blank">
+Click on the images to go to the profile :)
+
+<link rel="stylesheet" href="https://cdn.discordapp.com/attachments/944751991639392286/1071181266248011857/Instagram_Glyph_Gradient_copy.png">
+
+<a href="https://www.instagram.com/iampoco.md/" target="_blank">
+  
   <i class="fab fa-twitter fa-2x"></i>
 </a>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.discordapp.com/attachments/944751991639392286/1071181266587762760/twitter_100x100.png">
 
-<a href="https://instagram.com/your-username" target="_blank">
+<a href="https://twitter.com/iampoco55" target="_blank">
   <i class="fab fa-instagram fa-2x"></i>
 </a>
 

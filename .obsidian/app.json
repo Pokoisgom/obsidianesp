@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "readableLineLength": false,
+  "defaultViewMode": "preview",
+  "livePreview": true
+}

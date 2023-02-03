@@ -1,0 +1,319 @@
+{
+  "choices": [
+    {
+      "id": "90b215f0-0914-4c2a-a351-ef309411cdc5",
+      "name": "Template - Kanban",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Kanban_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "02781fe9-b552-4dbe-a057-bb19426baebf",
+      "name": "Template - Anki",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Anki_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "c0300347-0430-4a55-bc3e-18f987f27c71",
+      "name": "Esta montaña se llama:",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Area_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "5cd25641-c53d-4a25-b307-c8a96445bb8c",
+      "name": "Este audio se llama:",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Audio_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "57b4ce81-5b3e-405a-b070-05bea1461289",
+      "name": "Quiero proyectar lo aprendido en el libro TOT en:",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/The_One_Thing_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "878bdcd8-4527-4af5-bc36-c93b2dcf64b4",
+      "name": "Tuve una idea en la ducha la cual llamare:",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Shower_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "c63f9bd9-c4f0-4e48-bbf0-af112bcb7dd1",
+      "name": "Quiero analizar la conversación con el topico llamado:",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Listening_Journal_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "03633e65-7b59-4fe4-ac28-e816d603d539",
+      "name": "Este proyecto se llama:",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Project_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "7c86adf9-705a-40c1-98fc-bb9bd938c836",
+      "name": "Mi entrada principal se llama:",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Input_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "2cc38e58-c731-43b3-91fb-40a99d45f88b",
+      "name": "Mi nota se llama:",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Greenhouse_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "7f4b0bf6-0a15-4400-be81-3400feea14b7",
+      "name": "Estoy pensando en eliminar de mi vida el habito de:",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Bad_Habits_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "6d4d6903-5e6a-4dab-bdbd-27a3a59bbfe4",
+      "name": "Lo que me está drenando energía en este momento es:",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Hard_Questions_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{NAME}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

@@ -1,0 +1,66 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates/",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": "Templates/Area_Template.md"
+    },
+    {
+      "folder": "",
+      "template": "Templates/Audio_Template.md"
+    },
+    {
+      "folder": "",
+      "template": "Templates/Daily_Template.md"
+    },
+    {
+      "folder": "",
+      "template": "Templates/Greenhouse_Template.md"
+    },
+    {
+      "folder": "",
+      "template": "Templates/Input_Template.md"
+    },
+    {
+      "folder": "",
+      "template": "Templates/Kanban_Template.md"
+    },
+    {
+      "folder": "Templates",
+      "template": "Templates/Project_Template.md"
+    },
+    {
+      "folder": "",
+      "template": "Templates/Shower_Template.md"
+    },
+    {
+      "folder": "",
+      "template": "Templates/Weekly_Template.md"
+    },
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

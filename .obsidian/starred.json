@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "⛩️Altar",
+      "path": "⛩️Altar.md"
+    },
+    {
+      "type": "file",
+      "title": "🚧 Projects",
+      "path": "🚧 Proyectos.md"
+    },
+    {
+      "type": "file",
+      "title": "⛰️ Area",
+      "path": "⛰️ Montaña.md"
+    },
+    {
+      "type": "file",
+      "title": "🎵Audio Inputs",
+      "path": "🎵 Jardín de sonidos.md"
+    },
+    {
+      "type": "file",
+      "title": "📥 Main Inputs",
+      "path": "📥 Entradas principales.md"
+    },
+    {
+      "type": "file",
+      "title": "📆 Journal Entries",
+      "path": "📆 Diario.md"
+    },
+    {
+      "type": "file",
+      "title": "🏃‍♂️ Routine",
+      "path": "🏃‍♂️ Rutinario.md"
+    },
+    {
+      "type": "file",
+      "title": "💎 Anki",
+      "path": "💎 Anki.md"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
 
 Estoy emocionado de que hayas tomado la decisión de mejorar tu productividad y organización obsidian md. Se que puede ser abrumador empezar a utilizar una nueva herramienta, pero estoy aquí para ayudarte en cada paso del camino.
 
-En primer lugar, te recomiendo revisar la guía de inicio rápido para familiarizarte con las funciones básicas de la bóveda. Luego, te sugiero experimentar con los diferentes métodos (Zettelkasten, PARA y Evergreen) y ver cómo se adaptan mejor a tus necesidades.
+Te sugiero experimentar con los diferentes métodos (Zettelkasten, PARA y Evergreen) y ver cómo se adaptan mejor a tus necesidades.
 
 Si tienes alguna pregunta o inquietud, no dudes en ponerte en contacto. Estoy siempre disponible para ayudarte.
 

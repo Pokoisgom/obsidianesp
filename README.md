@@ -13,11 +13,8 @@ Si tienes alguna pregunta o inquietud, no dudes en ponerte en contacto. Estoy si
 ---
 
 
-Te recomiendo realizar una visita a youtube para familiarizarte con los plugins más utilizados.
-También te recomiendo visitar mi canal de instagram, donde subiré reels explicando como utilizar la herramienta para que puedas ajustarla a tus necesidades y obtengas tu 100%.
+Te recomiendo realizar una visita a youtube para familiarizarte con los plugins más utilizados. Y bueno, siempre meter las manos en la masa es lo mas recomendable (sobre todo con obsidian) para comenzar a familiarizarte con la App.
 
-
-- [Instagram](https://www.instagram.com/iampoco.md)
 - [Twitter](https://twitter.com/iampoco_)
 - [PayPal](https://paypal.me/iampoco?country.x=CL&locale.x=es_XC)
 - Metamask Wallet: 0xb294F8d708748309300cdB7010eED25A22564eA2
